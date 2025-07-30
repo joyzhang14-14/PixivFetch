@@ -36,7 +36,7 @@
 5. **Start the server**
 
    ```bash
-   python app.py
+   python mainEn.py
    ```
 
 6. **Access in your browser or on mobile**
@@ -93,7 +93,7 @@
 5. **启动服务**
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 6. **访问并下载**
