@@ -9,7 +9,6 @@ import requests
 from dotenv import load_dotenv
 from PIL import Image
 
-# —— 配置加载 —— #
 load_dotenv()
 PIXIV_COOKIE = os.getenv("PIXIV_COOKIE")
 if not PIXIV_COOKIE:
@@ -18,7 +17,7 @@ if not PIXIV_COOKIE:
 USER_AGENT = "Mozilla/5.0"
 app = Flask(__name__)
 
-# 首页表单
+
 INDEX_HTML = """
 <!doctype html>
 <title>Pixiv 原图/GIF 下载</title>
