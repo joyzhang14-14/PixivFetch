@@ -1,3 +1,4 @@
+## how to run 
 1. **Clone the repository**
 
    ```bash
@@ -53,7 +54,7 @@
 
    You will see the image (or animated GIF) inline, with a download button for the GIF.
 
-
+## 如何运行
 
 1. **克隆项目**
 
